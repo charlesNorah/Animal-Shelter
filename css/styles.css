@@ -81,28 +81,81 @@ ul label{
     width: 310px;
     height: 350px;
 }
-.cool{
+.cool .real{
     text-align: center;
     font-weight: bolder;
     font-size: 18px;
     color: yellowgreen;
 
 }
-.cool b{
-    color: black;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+.cool .dogs {
     text-shadow: 1px 1px black;
-    font-size: 23px;
-}
-.caption{
-    color: orangered;
+    font-size: 35px;
+    color: black;
     font-weight: bolder;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.cool .for{
+    color: orangered;
+    font-size: 25px;
+}
+.calm .cats{
+    text-shadow: 1px 1px black;
+    font-size: 35px;
+    color: black;
+    font-weight: bolder;
+}
+.calm .sat{
+    color: orangered;
+    font-size: 25px;
+}
+.calm .pets{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 18px;
+    color: yellowgreen;
+}
+.nora .hams{
+    text-shadow: 1px 1px black;
+    font-size: 35px;
+    color: black;
+    font-weight: bolder;
+}
+.nora .ness{
+    color: orangered;
+    font-size: 25px;
+}
+.nora .german{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 18px;
+    color: yellowgreen;
+}
+.stella .rabbits{
+    text-shadow: 1px 1px black;
+    font-size: 35px;
+    color: black;
+    font-weight: bolder;
+}
+.stella .furniture{
+    color: orangered;
+    font-size: 25px;
+}
+.stella .Alaska{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 18px;
+    color: yellowgreen;
+}
+
 .caption h2{
-    font-size: 30px;
     color: white;
+    font-size: 35px;
 }
-.captionh5{
-    font-size: 30px;
+.caption h5{
+    color: orangered;
+    font-size: 18px;
+}
+.btn{
+    font-weight: bolder;
+    color: black;
 }
