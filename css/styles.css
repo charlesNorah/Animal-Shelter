@@ -159,3 +159,49 @@ ul label{
     font-weight: bolder;
     color: black;
 }
+.jess{
+    float: left;
+    width: 48%;
+}
+.jess img{
+    width: 150px;
+    float: left;
+    margin-right: 4px;
+    height: 150px;
+}
+.max{
+    float: right;
+    width: 48%;
+    color: black;
+}
+.max img{
+    width: 150px;
+    float: right;
+    margin-left: 4px;
+    height: 150px;
+    color: black;
+}
+.broom{
+    float: right;
+    width: 48%;
+    color: black;
+}
+.broom img{
+    width: 150px;
+    float: right;
+    margin-left: 4px;
+    height: 150px;
+    color: black;
+}
+.bits{
+    float: left;
+    width: 48%;
+    color: black;
+}
+.bits img{
+    width: 150px;
+    float: left;
+    margin-left: 4px;
+    height: 150px;
+    color: black;
+}
