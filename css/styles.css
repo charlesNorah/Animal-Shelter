@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+.nav-link{
+    color: white;
+}
+ul label{
+    color: white;
+    margin-right: 35%;
+    font-size: 23px;
+    font-size: 25px;
+    font-weight: bolder;
+    text-shadow: 1px 1px white;
+
+}
+.nav-link:hover{
+    color: black;
+    background-color:greenyellow ;
+}
+.Animal{
+    background-image: url(../images/bg\ image\ 1.jpg);
+    height: 620px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Animal h2{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 2%;
+     color: rgb(5, 5, 48);
+     font-weight: bolder;
+     text-shadow: 1px 1px black;
+     margin-left: 5%;
+    
+    }
+    .Animal .one {
+        text-align:left;
+        color: white ;
+        font-size: 65px;
+        margin-left: 9%;
+        font-weight: bold;
+        font-style: italic;
+        margin-top: 16%;
+        
+}
+.Animal .two{
+    margin-left: 7%;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+    
+}
+.Animal .btn{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    margin-top: 2%;
+    
+    
+    font-weight: bold;
+}
+.cool img{
+    width: 310px;
+    height: 350px;
+}
+.calm img{
+    width: 310px;
+    height: 350px;
+}
+.nora img{
+    width:310px ;
+    height: 350px;
+}
+.stella img{
+    width: 310px;
+    height: 350px;
+}
+.cool{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 18px;
+    color: yellowgreen;
+
+}
+.cool b{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 1px 1px black;
+    font-size: 23px;
+}
+.caption{
+    color: orangered;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.caption h2{
+    font-size: 30px;
+    color: white;
+}
+.captionh5{
+    font-size: 30px;
+}
