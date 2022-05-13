@@ -24,7 +24,7 @@ ul label{
 }
 .Animal{
     background-image: url(../images/bg\ image\ 1.jpg);
-    height: 620px;
+    height: 650px;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -162,12 +162,14 @@ ul label{
 .jess{
     float: left;
     width: 48%;
+    color: black;
 }
 .jess img{
     width: 150px;
     float: left;
     margin-right: 4px;
     height: 150px;
+    color: black;
 }
 .max{
     float: right;
@@ -204,6 +206,32 @@ ul label{
     margin-left: 4px;
     height: 150px;
     color: black;
+
+}
+#about{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+#about div img{
+   max-width: 480px;
+   min-width: 340px;
+
+}
+.graph h3{
+    color: black;
+    font-size: 40px;
+    text-shadow: 1px 1px blackb;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.space{
+    background-color: rgb(223, 223, 7);
+}
+.graph p{
+    font-size: 20px;
+}
+.three{
+    font-weight: bolder;
 }
 
 
