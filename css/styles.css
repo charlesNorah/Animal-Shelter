@@ -160,10 +160,23 @@ ul label{
     font-weight: bolder;
     color: black;
 }
+.correction{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
 .jess{
     float: left;
     width: 48%;
     color: black;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+.jess h5{
+    text-align: left;
+    margin-left: 5%;
+    color: orangered;
 }
 .jess img{
     width: 150px;
@@ -171,11 +184,20 @@ ul label{
     margin-right: 4px;
     height: 150px;
     color: black;
+    margin: 1%;
 }
 .max{
     float: right;
     width: 48%;
     color: black;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+.max h5{
+    text-align: right;
+    margin-right: 10%;
+    color: orangered;
 }
 .max img{
     width: 150px;
@@ -183,11 +205,20 @@ ul label{
     margin-left: 4px;
     height: 150px;
     color: black;
+    margin: 1%;
 }
 .broom{
     float: right;
     width: 48%;
     color: black;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+.broom h5{
+    text-align: right;
+    margin-right: 5%;
+    color: orangered;
 }
 .broom img{
     width: 150px;
@@ -195,11 +226,20 @@ ul label{
     margin-left: 4px;
     height: 150px;
     color: black;
+    margin: 1%;
 }
 .bits{
     float: left;
     width: 48%;
     color: black;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+.bits h5{
+    text-align: left;
+    margin-left: 5%;
+    color: orangered;
 }
 .bits img{
     width: 150px;
@@ -207,6 +247,7 @@ ul label{
     margin-left: 4px;
     height: 150px;
     color: black;
+    margin: 1%;
 
 }
 #about{
@@ -234,5 +275,6 @@ ul label{
 .three{
     font-weight: bolder;
 }
+
 
 
